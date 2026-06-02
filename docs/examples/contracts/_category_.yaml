@@ -1,6 +1,6 @@
 position: 1
 label: 'Contracts'
-description: "Compact contract examples that demonstrate specific language features. Not production-ready."
+description: "Standalone Compact contract snippets that isolate specific language features like witness functions, assertions, and on-chain verification."
 collapsible: true # make the category collapsible
 collapsed: true # keep the category closed by default
 link:

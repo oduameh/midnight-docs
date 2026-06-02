@@ -1,6 +1,6 @@
 position: 30
 label: 'Battleship'
-description: "Intermediate: build a battleship contract with a focus on test suite design."
+description: "Write a contract that mixes public and private state as a state machine, then verify it with MidnightJS tests on a local devnet."
 collapsible: true # make the category collapsible
 collapsed: true # keep the category closed by default
 link:

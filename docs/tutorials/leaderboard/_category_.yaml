@@ -1,6 +1,6 @@
 position: 40
 label: 'Leaderboard'
-description: "Intermediate: build a multi-page leaderboard DApp with a browser UI and deployment."
+description: "Build a full-stack DApp with structured on-chain data, privacy controls via disclose(), Lace wallet integration, and production deployment."
 collapsible: true # make the category collapsible
 collapsed: true # keep the category closed by default
 link:

@@ -1,5 +1,6 @@
 position: 30
 label: 'ZK Loan'
+description: "Build a loan DApp that privately evaluates credit data with ZK proofs, covering Compact contract logic, a Schnorr-signed attestation API, and a CLI for deployment."
 collapsible: true # make the category collapsible
 collapsed: true # keep the category closed by default
 link:

@@ -1,6 +1,6 @@
 position: 1
 label: 'Counter'
-description: "Beginner: build a counter DApp to learn the Midnight Network contract and CLI flow."
+description: "Learn Compact smart contract basics, ledger state, ZK proof generation, and CLI deployment with a minimal counter DApp."
 collapsible: true # make the category collapsible
 collapsed: true # keep the category closed by default
 link:
